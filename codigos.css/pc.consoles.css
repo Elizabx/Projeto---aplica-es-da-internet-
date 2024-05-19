@@ -131,7 +131,18 @@ nav ul li a:hover {
     background-color: #ffc107;
 }
 
-h2, h3, h4 {
+h2 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    border: 1px solid;
+    color: #2b1b4a;
+    border-radius: 40px;
+    width: 460px;
+    background-color: #ffd857;
+}
+
+h3, h4 {
     margin-top: 30px;
     margin-bottom: 20px;
     font-size: 1.5em;
@@ -159,5 +170,4 @@ footer {
     border-radius: 20px;
     box-shadow: 0 4px 8px rgba(232, 142, 255, 0.2);
 }
-
 
